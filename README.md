@@ -67,3 +67,7 @@ If a player hovers their mouse over a card, an enlarged version of that card wil
 
 Rooms are automatically removed after 15 days of inactivity. If you would like to remove a room you've created sooner go into the edit view > Room Options > click the "DELETE" button.
 
+## Known Issues
+
+Currently there is an issue where procedure cards that are rotated into an upside down position remain in that orientation when a new game is started. This appears to be a bug with the web application.
+
